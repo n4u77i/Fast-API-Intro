@@ -1,0 +1,5 @@
+# Uvicorn cache
+__pycache__/
+
+# Virtual Environment
+venv-fast-api/
